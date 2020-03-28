@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-
+//Programma yavlyaetsya uchebnoy
 int main()
 {
     using namespace std;
