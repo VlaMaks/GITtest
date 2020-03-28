@@ -11,7 +11,7 @@ int main()
     cout<<"Enter second number "<<endl;
     int b;
     cin>>b;
-
+    cout<<"Sum "<<a+b<<endl;
     return 0;
 
 }
