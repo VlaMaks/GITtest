@@ -11,9 +11,12 @@ int main()
     cout<<"Enter second number "<<endl;
     int b;
     cin>>b;
-    cout<<"Sum "<<a+b<<endl;
-    cout<<"Multiply "<<a*b<<endl;
-    cout<<"Dif "<<a-b<<endl;
+    cout<<"Enter third number "<<endl;
+    int c;
+    cin>>c;
+    cout<<"Sum "<<a+b+c<<endl;
+    cout<<"Multiply "<<a*b*c<<endl;
+    cout<<"Dif "<<a-b-c<<endl;
     return 0;
 
 }
