@@ -1,9 +1,17 @@
 #include <iostream>
 
-using namespace std;
+
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    using namespace std;
+    cout<<"Enter first number "<<endl;
+    int a;
+    cin>>a;
+    cout<<"Enter second number "<<endl;
+    int b;
+    cin>>b;
+
     return 0;
+
 }
