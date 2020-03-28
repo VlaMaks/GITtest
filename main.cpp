@@ -12,6 +12,8 @@ int main()
     int b;
     cin>>b;
     cout<<"Sum "<<a+b<<endl;
+    cout<<"Multiply "<<a*b<<endl;
+    cout<<"Dif "<<a-b<<endl;
     return 0;
 
 }
