@@ -2,6 +2,11 @@
 
 
 //Programma yavlyaetsya uchebnoy
+
+double sum(double a, double b) {
+    return a+b;
+}
+
 int main()
 {
     using namespace std;
