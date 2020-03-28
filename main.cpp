@@ -1,6 +1,8 @@
 #include <iostream>
 
 
+
+
 //Programma yavlyaetsya uchebnoy
 
 double sum(double a, double b) {
